@@ -1,0 +1,23 @@
+{
+  "name": "uniformflowhelp",
+  "version": "1.0.0",
+  "description": "\"Uniform Flow ©\" is a web portal which provides online calculation tools for flow calculations.",
+  "main": "index.js",
+  "dependencies": {
+    "mathjax": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merickiranoglu/UniformFlowHelp.git"
+  },
+  "author": "mk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merickiranoglu/UniformFlowHelp/issues"
+  },
+  "homepage": "https://github.com/merickiranoglu/UniformFlowHelp#readme"
+}
