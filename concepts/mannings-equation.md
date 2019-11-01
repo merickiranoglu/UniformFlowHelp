@@ -164,22 +164,22 @@ Manning's n for Corrugated Metal Pipe  (AISI, 1980).
 | **2. Helical 1.50 x 1/4 inch** |   |
 |            8" diameter | 0.012 |
 |            10" diameter | 0.014 |
-**3. Helical 2.67 x 1/2 inch** |   |
+| **3. Helical 2.67 x 1/2 inch** |   |
 |            12" diameter | 0.011 |
 |            18" diameter | 0.014 |
 |            24" diameter | 0.016 |
 |            36" diameter | 0.019 |
 |            48" diameter | 0.020 |
 |            60" diameter | 0.021 |
-**4. Annular 3x1 inch (all diameters)** |  0.027 |
-**5. Helical 3x1 inch**
+| **4. Annular 3x1 inch (all diameters)** |  0.027 |
+| **5. Helical 3x1 inch** |   |
 |            48" diameter | 0.023 |
 |            54" diameter | 0.023 |
 |            60" diameter | 0.024 |
 |            66" diameter | 0.025 |
 |            72" diameter | 0.026 |
 |            78" diameter and larger | 0.027 |
-**6. Corrugations 6x2 inches**
+| **6. Corrugations 6x2 inches** |   |
 |            60" diameter | 0.033 |
 |            72" diameter | 0.032 |
 |            120" diameter | 0.030 |
