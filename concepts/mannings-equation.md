@@ -11,6 +11,6 @@ where,
 * R is hydraulic radius measured in m,
 * S is channel slope in longitudinal flow direction.
 
-
+Manning Roughness coefficient
 
 
