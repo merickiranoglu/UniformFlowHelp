@@ -1,7 +1,7 @@
 # Table of contents
 
 * [1. Introduction](README.md)
-* [2. Concepts](concepts/README.md)
+* [2. Basic Concepts](concepts/README.md)
   * [2.1 Steady Flow](concepts/steady-flow.md)
   * [2.2 Uniform Flow](concepts/uniform-flow.md)
   * [2.3 Manning's Equation](concepts/mannings-equation.md)
