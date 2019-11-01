@@ -1,4 +1,8 @@
-# 2.4 Gradually Varied Flow
+# 2.4. Varied Flow
 
-Information about Gradually Varied Flow will be placed here.
+If the flow velocity at a time varies with respect to distance, then the flow is called _**varied flow**_.
+
+Depending upon the rate of variation with respect to distance, flows may be classified as _gradually varied flow_ or _rapidly varied flow_.
+
+
 

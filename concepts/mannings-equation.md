@@ -1,4 +1,4 @@
-# 2.3 Manning's Equation
+# 2.5. Manning's Equation
 
 In 1889 the Irish engineer Robert Manning presented a formula, which was later modified to its present well-known form,
 

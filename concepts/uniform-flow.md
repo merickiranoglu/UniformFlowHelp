@@ -1,6 +1,6 @@
-# 2.2 Uniform Flow
+# 2.3. Uniform Flow
 
-Uniform flow occurs when the depth, flow area, velocity and discharge remains constant in any location of flow.
+If the flow velocity at a given instant of time does not vary within a given length of channel, then the flow is called _**uniform flow**_.
 
-Uniform flow is considered to be steady only, since unsteady flow is practically nonexistent.
+Uniform flow is considered to be [steady ](steady-flow.md)only, since unsteady flow is practically nonexistent.
 

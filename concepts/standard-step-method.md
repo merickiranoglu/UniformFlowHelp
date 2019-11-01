@@ -1,4 +1,4 @@
-# 2.5 Standard Step Method
+# 2.6. Standard Step Method
 
 Information about Standard Step Method will be placed here.
 
