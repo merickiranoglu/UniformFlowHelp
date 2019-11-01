@@ -115,4 +115,71 @@ Manning's n for Channels \(Chow, 1959\).
 | j. Vegetal lining | 0.030 |  | 0.050 |
 
 
+Manning's n for Closed Conduits Flowing Partly Full  (Chow, 1959). 
+| **Type of Conduit and Description** | **Minimum** | **Normal** | **Maximum** |
+| :--- | :--- | :--- | :--- |
+| **1. Brass, smooth:** | \*\*\*\* |  |  |
+| **2. Steel:** | \*\*\*\* |  |  |
+| Lockbar and welded | 0.010 | 0.012 | 0.014 |
+| Riveted and spiral | 0.013 | 0.016 | 0.017 |
+| **3. Cast Iron:** | \*\*\*\* |  |  |
+| Coated | 0.010 | 0.013 | 0.014 |
+| Uncoated | 0.011 | 0.014 | 0.016 |
+| **4. Wrought Iron:** | \*\*\*\* |  |  |
+| Black | 0.012 | 0.014 | 0.015 |
+| Galvanized | 0.013 | 0.016 | 0.017 |
+| **5. Corrugated Metal:** | \*\*\*\* |  |  |
+| Subdrain | 0.017 | 0.019 | 0.021 |
+| Stormdrain | 0.021 | 0.024 | 0.030 |
+| **6. Cement:** | \*\*\*\* |  |  |
+| Neat Surface | 0.010 | 0.011 | 0.013 |
+| Mortar | 0.011 | 0.013 | 0.015 |
+| **7. Concrete:** | \*\*\*\* |  |  |
+| Culvert, straight and free of debris | 0.010 | 0.011 | 0.013 |
+| Culvert with bends, connections, and some debris | 0.011 | 0.013 | 0.014 |
+| Finished | 0.011 | 0.012 | 0.014 |
+| Sewer with manholes, inlet, etc., straight | 0.013 | 0.015 | 0.017 |
+| Unfinished, steel form | 0.012 | 0.013 | 0.014 |
+| Unfinished, smooth wood form | 0.012 | 0.014 | 0.016 |
+| Unfinished, rough wood form | 0.015 | 0.017 | 0.020 |
+| **8. Wood:** | \*\*\*\* |  |  |
+| Stave | 0.010 | 0.012 | 0.014 |
+| Laminated, treated | 0.015 | 0.017 | 0.020 |
+| **9. Clay:** | \*\*\*\* |  |  |
+| Common drainage tile | 0.011 | 0.013 | 0.017 |
+| Vitrified sewer | 0.0115 | 0.014 | 0.017 |
+| Vitrified sewer with manholes, inlet, etc. | 0.013 | 0.015 | 0.017 |
+| Vitrified subdrain with open joint | 0.014 | 0.016 | 0.018 |
+| **10. Brickwork:** | \*\*\*\* |  |  |
+| Glazed | 0.011 | 0.013 | 0.015 |
+| Lined with cement mortar | 0.012 | 0.015 | 0.017 |
+| Sanitary sewers coated with sewage slime with bends and connections | 0.012 | 0.013 | 0.016 |
+| Paved invert, sewer, smooth bottom | 0.016 | 0.019 | 0.020 |
+| Rubble masonry, cemented | 0.018 | 0.025 | 0.030 |
 
+Manning's n for Corrugated Metal Pipe  (AISI, 1980).  
+| **Type of Pipe, Diameter and Corrugation Dimension** | **n** |
+| **1. Annular 2.67 x 1/2 inch (all diameters)** | 0.024 |
+| **2. Helical 1.50 x 1/4 inch** |  \*\*\*\* |
+| 8" diameter | 0.012 |
+| 10" diameter | 0.014 |
+**3. Helical 2.67 x 1/2 inch** |  \*\*\*\* |
+| 12" diameter | 0.011 |
+| 18" diameter | 0.014 |
+| 24" diameter | 0.016 |
+| 36" diameter | 0.019 |
+| 48" diameter | 0.020 |
+| 60" diameter | 0.021 |
+**4. Annular 3x1 inch (all diameters)** |  0.027 |
+**5. Helical 3x1 inch**
+| 48" diameter | 0.023 |
+| 54" diameter | 0.023 |
+| 60" diameter | 0.024 |
+| 66" diameter | 0.025 |
+| 72" diameter | 0.026 |
+| 78" diameter and larger | 0.027 |
+**6. Corrugations 6x2 inches**
+| 60" diameter | 0.033 |
+| 72" diameter | 0.032 |
+| 120" diameter | 0.030 |
+| 180" diameter | 0.028 |
