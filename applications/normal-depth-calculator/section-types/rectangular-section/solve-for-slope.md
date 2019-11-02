@@ -1,2 +1,0 @@
-# Solve for Slope
-

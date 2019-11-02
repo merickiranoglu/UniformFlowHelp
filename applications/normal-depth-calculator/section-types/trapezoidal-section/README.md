@@ -1,2 +1,0 @@
-# Trapezoidal Section
-
