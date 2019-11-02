@@ -9,7 +9,7 @@
   * [2.5. Froude Number and Flow Conditions](concepts/2.5.-froude-number-and-flow-conditions.md)
   * [2.5. Manning's Equation](concepts/mannings-equation.md)
   * [2.6. Standard Step Method](concepts/standard-step-method.md)
-* [3. Applications](applications/README.md)
+* [3. Modules](applications/README.md)
   * [3.1 Normal Depth Calculator](applications/normal-depth-calculator/README.md)
     * [Section Types](applications/normal-depth-calculator/section-types/README.md)
       * [Rectangular Section](applications/normal-depth-calculator/section-types/rectangular-section/README.md)
@@ -27,6 +27,5 @@
         * [Solve for Depth](applications/normal-depth-calculator/section-types/circular-section-1/solve-for-depth.md)
         * [Solve for Diameter](applications/normal-depth-calculator/section-types/circular-section-1/solve-for-diameter.md)
         * [Solve for Slope](applications/normal-depth-calculator/section-types/circular-section-1/solve-for-slope.md)
-    * [Untitled](applications/normal-depth-calculator/untitled.md)
   * [3.2 Gradually Varied Flow Calculator](applications/gradually-varied-flow-calculator.md)
 

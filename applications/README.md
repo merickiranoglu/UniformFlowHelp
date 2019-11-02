@@ -1,2 +1,2 @@
-# 3. Applications
+# 3. Modules
 
