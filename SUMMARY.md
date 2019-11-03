@@ -22,4 +22,5 @@
       * [Solve for Diameter](applications/normal-depth-calculator/calculation-types/solve-for-diameter.md)
       * [Solve for Slope](applications/normal-depth-calculator/calculation-types/solve-for-slope.md)
   * [3.2 Gradually Varied Flow Calculator](applications/gradually-varied-flow-calculator.md)
+* [4. References](4.-references.md)
 
